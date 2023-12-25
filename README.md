@@ -15,5 +15,5 @@ license: mit
 #//Follow for more apps, dev tools, music 
 #  &other mixed-multi-media
 #//Sign-up and check out random cool downloads
-#  @ SoftDisquiet.com
+#  @ SoftDisquiet.com  2023
 #Based on the great Prodia Stable Diffusion XL+ family.
